@@ -1,4 +1,5 @@
 🧩 Customer Segmentation using Machine Learning App link - https://customer-segmentation-p615.streamlit.app
+
 📌 Project Overview
 
 This project focuses on customer segmentation using unsupervised machine learning techniques. The goal is to group customers based on their demographics, purchasing behavior, and engagement patterns to support targeted marketing strategies.
